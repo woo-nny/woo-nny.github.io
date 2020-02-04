@@ -137,7 +137,7 @@ defaults:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus_shortname:                woonny
+disqus:                woonny
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -343,7 +343,7 @@ kramdown:
     preview_as_code:   true
 
 compress_html:
-  comments:            ["<!-- ", " -->"]
+  comments:            ["<!-- ", " -->"] 
   clippings:           all
   endings:             all
   ignore:
