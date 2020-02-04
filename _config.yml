@@ -344,6 +344,7 @@ kramdown:
 
 compress_html:
   comments:            ["<!-- ", " -->"]
+  disqus:              woonny
   clippings:           all
   endings:             all
   ignore:
