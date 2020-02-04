@@ -3,6 +3,7 @@ layout: page
 title: List - min max
 description: >
   List
+comments: true
 hide_description: true
 ---
 
