@@ -4,6 +4,7 @@ title: List - 특별한 정렬
 description: >
   List
 hide_description: true
+comments: true
 ---
 
 ## ※ SW Expert 아카데미의 문제를 무단 복제하는 것을 금지합니다.
