@@ -7,11 +7,12 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
- # about:             
-
+  # 사이드바 about 부분에 들어가서 보여줄 부분
+  about:             |
+    공부 중
   # This photo will be used in the about section
-  # picture:
-  #   path:            https://placehold.it/128x128
+  picture:
+    path:            https://placehold.it/128x128
   #    srcset is optional, but can be used to provide higher res versions for retina displays
   #    srcset:
   #      1x:            https://placehold.it/128x128
@@ -20,10 +21,10 @@ author1:
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
-  # social:
-  #   twitter:         <username>
-  #   github:          <username>
-    # email:           <mail@domain.tld>
+  social:
+    # twitter:         <username>
+    github:          woo-nny
+    email:           kjw8739@naver.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -70,9 +71,9 @@ author2:
   #   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
   #   Open `_data/authors.yml` to edit this text.
-  # picture:           https://placehold.it/128x128
+  picture:           https://placehold.it/128x128
   # twitter:           <username>
-  # github:            <username>
+  github:            <username>
   # accent_color:      '#268bd2'
   # accent_image:
   #   background:      '#202020'
