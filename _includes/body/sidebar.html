@@ -36,10 +36,13 @@
         {% include body/nav.html %}
       </nav>
 
-      {% assign author = site.data.authors.first[1] | default:site.author %}
+      {% assign author1 = site.data.authors.first[1] | default:site.author %}
+      {% assign author2 = site.data.authors.first[2] | default:site.author %}
+      {{author1}}
 
       <div class="sidebar-social">
-        {% include components/social.html author=author %}
+        {% include components/social.html author=author1 %}
+        {% include components/social.html author=author2 %}
       </div>
     </div>
   </header>
