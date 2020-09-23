@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - 구간 합
+title: List - GPT-3
 description: >
   List
 hide_description: true

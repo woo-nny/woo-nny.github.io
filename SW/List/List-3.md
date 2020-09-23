@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - 숫자 카드
+title: List - Deep Learing
 description: >
   List
 hide_description: true

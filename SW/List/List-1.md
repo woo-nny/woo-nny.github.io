@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - AI precourse
+title: List - AI 개념
 description: >
   List
 comments: true
