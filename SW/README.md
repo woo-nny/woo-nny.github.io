@@ -1,14 +1,14 @@
 ---
-title: SW
+title: LikeLion
 description: >
-  SW
+  AI
 hide_description: true
 permalink: /SW/
 ---
 
 SW Expert
 
-**NOTE**: 삼성
+**NOTE**: LikeLion
 {:.message}
 
 ## List

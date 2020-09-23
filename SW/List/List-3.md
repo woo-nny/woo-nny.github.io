@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - Deep Learing
+title: Deep Learing
 description: >
   List
 hide_description: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - GPT-3
+title: GPT-3
 description: >
   List
 hide_description: true
