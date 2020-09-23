@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - 전기버스
+title: List - Machine Learning
 description: >
   List
 hide_description: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - 색칠하기
+title: List - NLP
 description: >
   List
 hide_description: true
