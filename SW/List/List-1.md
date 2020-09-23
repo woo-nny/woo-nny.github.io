@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - min max
+title: List - AI precourse
 description: >
   List
 comments: true
