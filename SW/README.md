@@ -12,14 +12,14 @@ SW Expert
 {:.message}
 
 ## List
-* [List-1]{:.heading.flip-title} --- min max.
-* [List-2]{:.heading.flip-title} --- 전기버스.
-* [List-3]{:.heading.flip-title} --- 숫자 카드.
-* [List-4]{:.heading.flip-title} --- 구간 합.
-* [List-5]{:.heading.flip-title} --- 색칠하기.
-* [List-6]{:.heading.flip-title} --- 부분집합의 합.
-* [List-7]{:.heading.flip-title} --- 이진탐색.
-* [List-8]{:.heading.flip-title} --- 특별한 정렬.
+* [List-1]{:.heading.flip-title} --- AI 개념.
+* [List-2]{:.heading.flip-title} --- Machine Learning.
+* [List-3]{:.heading.flip-title} --- Deep Learning.
+* [List-4]{:.heading.flip-title} --- GPT-3.
+* [List-5]{:.heading.flip-title} --- NLP.
+* [List-6]{:.heading.flip-title} --- Algorithm.
+* [List-7]{:.heading.flip-title} --- statistics.
+* [List-8]{:.heading.flip-title} --- Web.
 
 ## String
 * [String-1]{:.heading.flip-title} --- 문자열 비교.
