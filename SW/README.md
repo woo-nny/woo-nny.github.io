@@ -1,12 +1,12 @@
 ---
-title: LikeLion
+title: 인공지능 사관학교
 description: >
   AI
 hide_description: true
 permalink: /SW/
 ---
 
-SW Expert
+AI 사관학교
 
 **NOTE**: LikeLion
 {:.message}
