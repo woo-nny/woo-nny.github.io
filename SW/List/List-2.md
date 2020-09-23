@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - Machine Learning
+title: Machine Learning
 description: >
   List
 hide_description: true

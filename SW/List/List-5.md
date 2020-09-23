@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List - NLP
+title: NLP
 description: >
   List
 hide_description: true
